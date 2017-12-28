@@ -1,0 +1,16 @@
+{
+  "name": "packinglist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.3.2",
+    "express": "^4.16.2",
+    "node-xlsx": "^0.11.2"
+  }
+}
