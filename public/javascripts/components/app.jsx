@@ -1,8 +1,11 @@
 import React from "react";
-import Search from "./search";
+import Table from "./table";
 
 export default function App () {
   return (
-    <Search />
+    <Table />
   );
 }
+
+
+
