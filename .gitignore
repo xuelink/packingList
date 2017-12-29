@@ -57,6 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
-# ignore all excel files
+# all excel files
 .xlsx
 .xls
+
+# bundle file
+public/javascripts/bundle.js
